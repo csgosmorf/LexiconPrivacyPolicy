@@ -12,12 +12,12 @@ However, Lexicon **uses third-party services** for **advertising** and **in-app 
 
 ## 3. Third-Party Services  
 Lexicon may use third-party services for:  
-- **Advertising** – Ads may be displayed in the app, and the ad provider may collect data such as device identifiers to personalize ads.  
+- **Advertising** – Lexicon displays ads using **Google Mobile Ads (AdMob)**. Google may collect device information and other data to provide personalized or non-personalized ads.  
 - **In-App Purchases** – Payments are processed through **Apple's App Store**, which may collect transaction-related data. We do not have access to your payment details.  
 
 These third-party services operate under their own privacy policies. We recommend reviewing their policies:  
+- **Google AdMob Privacy Policy**: [https://policies.google.com/privacy](https://policies.google.com/privacy)  
 - **Apple App Store Privacy Policy**: [https://www.apple.com/legal/privacy/](https://www.apple.com/legal/privacy/)  
-- **Google Mobile Ads Privacy Policy**: [https://policies.google.com/privacy]
 
 ## 4. Children’s Privacy  
 Lexicon is rated **12+** globally and is suitable for general audiences. We do not knowingly collect personal data from children. If you are a parent and believe your child has provided personal data to a third party through ads or purchases, please review their privacy settings.  
@@ -27,4 +27,4 @@ We may update this Privacy Policy from time to time. If changes are made, we wil
 
 ## 6. Contact Us  
 If you have any questions about this Privacy Policy, please reach out to us:  
-📧 **[Your Contact Email]**  
+📧 **email@support-lexicon.com**  
