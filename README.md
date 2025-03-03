@@ -1,6 +1,6 @@
 # Privacy Policy
 **Lexi**  
-**Last Updated: 2/12/2025**  
+**Last Updated: 3/3/2025**  
 
 ## 1. Introduction  
 Welcome to **Lexi** (“we,” “our,” or “us”). We value your privacy and are committed to being transparent about how our app operates. This Privacy Policy explains how Lexi handles user data.  
