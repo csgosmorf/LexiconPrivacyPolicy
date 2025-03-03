@@ -27,4 +27,4 @@ We may update this Privacy Policy from time to time. If changes are made, we wil
 
 ## 6. Contact Us  
 If you have any questions about this Privacy Policy, please reach out to us:  
-📧 **email@support-lexicon.com**  
+📧 **lexidevsup@gmail.com**  
